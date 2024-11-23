@@ -13,6 +13,6 @@ K-Ainaa Assistant is a versatile WhatsApp bot designed to help manage groups, as
 # installation
 ## 📝 Cloning this repo
 ```bash
-> git clone https://github.com/IndonesianDev/whatsapp-bot
-> cd whatsapp-bot
+> git clone https://github.com/FalAjaa/K-Ainaa-Assistant
+> cd K-Ainaa-Assistant
 ```
